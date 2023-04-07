@@ -45,3 +45,9 @@
         '2':
             number: 136********
             belong: SiChuan
+
+# 引擎
+
+核心借用 snakeyaml-engine 实现
+
+https://bitbucket.org/snakeyaml/snakeyaml-engine/src/master/
