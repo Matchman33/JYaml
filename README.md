@@ -38,8 +38,8 @@
     desc: I am a student
     派: '3.14'
     phone:
-    number: 136********
-    belong: SiChuan
+        number: 136********
+        belong: SiChuan
     map:
     '1':
         '2':
